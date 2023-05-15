@@ -25,6 +25,6 @@ https://upload.luckyorange.net
 https://cs.luckyorange.net
 https://settings.luckyorange.net
 adservice.google.com
-hsessions.bugsnag.com
+sessions.bugsnag.com
 browser.sentry-cdn.com
 appmetrica.yandex.ru
