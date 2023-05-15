@@ -24,3 +24,7 @@ https://w1.luckyorange.com
 https://upload.luckyorange.net
 https://cs.luckyorange.net
 https://settings.luckyorange.net
+adservice.google.com
+sessions.bugsnag.com
+browser.sentry-cdn.com
+appmetrica.yandex.ru
