@@ -32,3 +32,4 @@ https://ads.google.com
 https://amazonaax.com
 https://ads.reddit.com
 https://securemetrics.apple.com
+||ads.google.com^
