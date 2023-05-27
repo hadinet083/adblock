@@ -1,4 +1,4 @@
-||ads.google.com^$third-party
-||amazonaax.com^$third-party
-||ads.reddit.com^$third-party
-||ecuremetrics.apple.com^$third-party
+||ads.google.com^
+||amazonaax.com^
+||ads.reddit.com^
+||ecuremetrics.apple.com^
