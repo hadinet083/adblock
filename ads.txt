@@ -2,3 +2,4 @@
 ||amazonaax.com^
 ||ads.reddit.com^
 ||securemetrics.apple.com^
+||browser.sentry-cdn.com^
